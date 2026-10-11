@@ -1,0 +1,14 @@
+# Large trained models
+outputs/*.joblib
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments and secrets
+.venv/
+venv/
+env/
+.env
+.env.*
